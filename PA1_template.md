@@ -1,5 +1,5 @@
 # Reproducible Research: Peer Assessment 1
-## Loading and preprocessing the data
+## Loading and preprocessing the data for assignment
 
 ```r
 sourceRecords <- "activity.zip"

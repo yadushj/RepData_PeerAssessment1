@@ -4,7 +4,7 @@ output:
   html_document:
     keep_md: true
 ---
-## Loading and preprocessing the data
+## Loading and preprocessing the data for assignment
 ```{r}
 sourceRecords <- "activity.zip"
 
