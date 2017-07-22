@@ -14,7 +14,6 @@ stepData <- read.csv("activity.csv")
 ##transform date column from factor to POSIX date format
 stepData$date <- as.POSIXct(stepData$date, format="%Y-%m-%d")
 ```
-
 ## What is mean total number of steps taken per day?
 
 ```r
